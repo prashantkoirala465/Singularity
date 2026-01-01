@@ -2,6 +2,8 @@
 
 A WebGPU-powered black hole visualization built with Three.js.
 
+## Preview Link: https://singularity-pied.vercel.app/
+
 ## About
 
 This is a real-time 3D visualization of a black hole with gravitational lensing effects, accretion disk, and a space environment. It uses Three.js's WebGPU renderer and TSL (Three.js Shading Language) for advanced shader effects.
