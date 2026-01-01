@@ -2,8 +2,6 @@
 
 A WebGPU-powered black hole visualization built with Three.js.
 
-![Preview](https://github.com/user-attachments/assets/e7810d45-6113-4dfc-8884-5c9fbdeca65d)
-
 ## About
 
 This is a real-time 3D visualization of a black hole with gravitational lensing effects, accretion disk, and a space environment. It uses Three.js's WebGPU renderer and TSL (Three.js Shading Language) for advanced shader effects.
